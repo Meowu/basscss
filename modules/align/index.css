@@ -1,5 +1,6 @@
 /* Basscss Align */
-
+/* 该属性是用来指定 行内元素或者表格单元格元素的垂直对齐方式的。 */
+/* 除了以下的值， 还有 sub, super, text-top, text-bottom 。还可以是百分比或者长度值，甚至负值。 */
 .align-baseline { vertical-align: baseline }
 .align-top      { vertical-align: top }
 .align-middle   { vertical-align: middle }
